@@ -9,3 +9,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] List syntax is required
 - [ ] This item is complete
 - [ ] This item is not complete
+
+* do homework 
+* finish icm 
