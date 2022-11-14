@@ -12,3 +12,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 * do homework 
 * finish icm 
+
+**_By Aashini_**
